@@ -1,0 +1,30 @@
+{
+  "name": "verstka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "graceful-fs": "^4.2.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-file-include": "^2.2.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "RufTECHgit",
+    "url": "git+https://github.com/MrRufRUS/Binary.git"
+  },
+  "author": "RufTECH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRufRUS/Binary/issues"
+  },
+  "homepage": "https://github.com/MrRufRUS/Binary#readme"
+}
